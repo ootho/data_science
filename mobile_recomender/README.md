@@ -4,7 +4,7 @@
 
 ## Project Objective and Tasks
 
-The mobile operator offers two tariff plans: "Smart" and "Ultra". The goal is to conduct a preliminary analysis of the tariffs on a small sample of customers and determine which tariff is more promising for the operator. Additionally, a model will be built to recommend a specific tariff to users.
+The goal is to conduct a preliminary analysis of two tariffs on a small sample of customers and determine which tariff is more promising for the operator.  
 
 **Tech Stack: Python, Pandas, Seaborn, Scikit-learn, SciPy**
 

@@ -4,7 +4,7 @@
 
 ## Project Objective and Tasks
 
-We have historical data available, including technical specifications, configurations, and prices of cars. Our goal is to build a model for predicting car prices.
+We have historical data available of a car marketplace, including technical specifications, configurations, and prices of cars. Our goal is to build a model for predicting car prices.
 
 The client values the following aspects:
 - Prediction quality

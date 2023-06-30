@@ -4,9 +4,7 @@
 
 ## Project Objective and Tasks
 
-The network supermarket "Hleb-Sol" is implementing a computer vision system for processing customer photos. Capturing photos at the checkout area will help determine the age of customers in order to:
-- Analyze purchases and suggest products that may interest customers in that age group.
-- Control cashiers' compliance when selling alcohol.
+An aim of the project is to determine age of people based on a photo.  
 
 **Tech Stack: Python, Pandas, NumPy, Keras**
 

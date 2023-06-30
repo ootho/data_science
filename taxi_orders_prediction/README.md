@@ -4,7 +4,7 @@
 
 ## Project Objective and Tasks
 
-We have historical data on taxi orders at airports. To attract a sufficient number of drivers during peak load periods, we need to forecast the number of taxi orders for the next hour.
+We have historical data on taxi orders at airports. To attract a sufficient number of drivers during peak load periods, we need to forecast the number of taxi orders for the next hour.  
 
 **Tech Stack: Python, Pandas, Matplotlib, Scikit-learn, CatBoost**
 
