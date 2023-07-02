@@ -1,2 +1,4 @@
 /yp_bank_churn/catboost_info
 **/datasets/
+ipynb_translator.py
+translator/

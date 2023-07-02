@@ -1,6 +1,6 @@
 # Customer Churn Prediction for Telecom Operator
 
-[View Notebook](https://nbviewer.org/github/ootho/data_science/blob/main/yp_telecom/yp_telecom.ipynb)
+[View Notebook](https://nbviewer.org/github/ootho/data_science/blob/main/telecom_churn/telecom.ipynb)
 
 ## Project Objective and Tasks
 

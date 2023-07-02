@@ -1,6 +1,6 @@
 # Bank Customer Churn Prediction
 
-[View Notebook](https://nbviewer.org/github/ootho/data_science/blob/main/yp_bank_churn/bank_churn.ipynb)
+[View Notebook](https://nbviewer.org/github/ootho/data_science/blob/main/bank_churn/bank_churn.ipynb)
 
 Data Source: [kaggle.com/barelydedicated/bank-customer-churn-modeling](https://www.kaggle.com/barelydedicated/bank-customer-churn-modeling)
 

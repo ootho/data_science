@@ -1,6 +1,6 @@
 # Recommender System for Mobile Operator Tariffs
 
-[View Notebook](https://nbviewer.org/github/ootho/data_science/blob/main/yp_mobile_recomender/mobile_recomender.ipynb)
+[View Notebook](https://nbviewer.org/github/ootho/data_science/blob/main/mobile_recomender/mobile_recomender.ipynb)
 
 ## Project Objective and Tasks
 

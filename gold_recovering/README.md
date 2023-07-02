@@ -1,6 +1,6 @@
 # Gold Recovery from Ore
 
-[View Notebook](https://nbviewer.org/github/ootho/data_science/blob/main/yp_gold_recovering/gold_recovering.ipynb)
+[View Notebook](https://nbviewer.org/github/ootho/data_science/blob/main/gold_recovering/gold_recovering.ipynb)
 
 ## Project Objective and Tasks
 

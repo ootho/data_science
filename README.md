@@ -14,7 +14,7 @@
   
 <blockquote>
 
-[**car_price_prediction**](https://github.com/ootho/data_science/blob/main/car_price_prediction/)
+[**estimating_car_price**](https://github.com/ootho/data_science/blob/main/estimating_car_price/)
 🚗 Developing a model for a used car platform that estimates car values based on their technical condition, body type, brand, and other characteristics.
 </blockquote>
 
@@ -44,8 +44,8 @@ Developing a model that recommends mobile phone plans based on user behavior in 
 
 <blockquote>
 
-[**taxi_order_predictions**](https://github.com/ootho/data_science/blob/main/taxi_orders_prediction/)
-🚖 To attract enough drivers during peak hours, a machine learning model is developed to predict the number of taxi orders in the airport area for the next hour.
+[**taxi_demand_forecating**](https://github.com/ootho/data_science/blob/main/taxi_demand_forecating/)
+🚖 To attract enough drivers during peak hours, a machine learning model is developed to forecast the number of taxi orders in the airport area for the next hour.
 </blockquote>
 
 <blockquote>

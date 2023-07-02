@@ -1,11 +1,11 @@
 # Detection of Toxic Comments
 
-[View Notebook](https://nbviewer.org/github/ootho/data_science/blob/main/yp_toxic_comments/toxic_comments.ipynb)
+[View Notebook](https://nbviewer.org/github/ootho/data_science/blob/main/toxic_comments/toxic_comments.ipynb)
 
 ## Project Objective and Tasks
 
 The goal is to train a model that can classify comments as positive or negative.  
-During the project, we will use traditional machine learning models and also explore `toxic-BERT` model.  
+During the project, we will use classic machine learning models and also explore `toxic-BERT` model.  
 
 **Tech Stack: Python, Pandas, Scikit-learn, CatBoost, NLTK, PyTorch**
 

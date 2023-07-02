@@ -1,6 +1,6 @@
 # Well Location Selection
 
-[View Notebook](https://nbviewer.org/github/ootho/data_science/blob/main/yp_well_location/well_location.ipynb)
+[View Notebook](https://nbviewer.org/github/ootho/data_science/blob/main/well_location/well_location.ipynb)
 
 ## Project Objective and Tasks
 
