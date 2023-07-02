@@ -44,7 +44,7 @@ Developing a model that recommends mobile phone plans based on user behavior in 
 
 <blockquote>
 
-[**taxi_demand_forecating**](https://github.com/ootho/data_science/blob/main/taxi_demand_forecasting/)
+[**taxi_demand_forecasting**](https://github.com/ootho/data_science/blob/main/taxi_demand_forecasting/)
 🚖 To attract enough drivers during peak hours, a machine learning model is developed to forecast the number of taxi orders in the airport area for the next hour.
 </blockquote>
 
