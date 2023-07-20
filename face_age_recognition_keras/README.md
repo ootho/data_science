@@ -1,6 +1,6 @@
 # Age Estimation from Photos (Keras)
 
-[View Notebook](https://nbviewer.org/github/ootho/data_science/blob/main/yp_face_age_recognition_keras/face_age_recognition_keras.ipynb)
+[View Notebook](https://nbviewer.org/github/ootho/data_science/blob/main/face_age_recognition_keras/face_age_recognition_keras.ipynb)
 
 ## Project Objective and Tasks
 

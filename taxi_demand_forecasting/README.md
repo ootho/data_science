@@ -1,6 +1,6 @@
 # Taxi Orders Prediction
 
-[View Notebook](https://nbviewer.org/github/ootho/data_science/blob/main/taxi_orders_prediction/taxi_orders_prediction.ipynb)
+[View Notebook](https://nbviewer.org/github/ootho/data_science/blob/main/taxi_demand_forecasting/taxi_demand_forecating.ipynb)
 
 ## Project Objective and Tasks
 
